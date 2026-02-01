@@ -1,21 +1,23 @@
 # DiskScout – Storage Price Comparison Tool
 
-DiskScout is a small tool built to compare SSD, NVMe and HDD prices across Amazon.
+DiskScout is a small web tool that compares SSD, NVMe and HDD prices across Amazon.
 
-## Why?
-Tracking storage prices manually across multiple listings is painful,
-especially when planning PC builds or NAS upgrades.
+## The problem
+When building or upgrading a PC (or planning a NAS),
+tracking storage prices manually across multiple Amazon listings is painful
+and time-consuming.
 
-## What it does
-- Compares SSD / NVMe / HDD prices
-- Focuses on storage only (no GPUs / CPUs)
+## What DiskScout does
+- Compares SSD / NVMe / HDD prices across Amazon
+- Focuses on storage only (no GPUs or CPUs)
 - Updates prices automatically
+- Helps find better storage deals faster
 
-## Website
+## Live website
 https://disk-scout.com/
 
-## Status
+## Project status
+The website is live and actively maintained.
 This repository does not include the production code.
-The project is actively maintained and the site is live.
 
 Feedback is welcome.
